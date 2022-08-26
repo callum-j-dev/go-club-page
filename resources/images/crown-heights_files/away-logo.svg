@@ -1,0 +1,14 @@
+
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="70px" height="25px" viewBox="0 0 70 25" style="enable-background:new 0 0 70 25;" xml:space="preserve">
+<rect style="fill:#FFFFFF;" width="70" height="25"/>
+<g>
+	<path style="fill:#131111;" d="M0,0v25h70V0H0z M17.7,17.3L17,15.8h-4.6l-0.7,1.5H9.4l4.4-9.6h1.8l4.4,9.6H17.7z M34.7,17.3h-1.8
+		l-3-6.5l-3,6.5h-1.8l-4.4-9.6H23l3,6.5l3-6.5h1.8l3,6.5l3-6.5h2.3L34.7,17.3z M48,17.3l-0.7-1.5h-4.6L42,17.3h-2.3l4.4-9.6h1.8
+		l4.4,9.6H48z M56.7,13.5v3.8h-2.1v-3.8l-3.8-5.8h2.5l2.4,3.6L58,7.7h2.5L56.7,13.5z"/>
+	<rect y="-0.1" style="fill:#131111;" width="70" height="0.1"/>
+	<polygon style="fill:#131111;" points="13.2,13.8 16.3,13.8 14.8,10.3 	"/>
+	<polygon style="fill:#131111;" points="43.5,13.8 46.6,13.8 45,10.3 	"/>
+</g>
+</svg>

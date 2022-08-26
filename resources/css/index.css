@@ -1,0 +1,121 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #E9B649;
+    padding: 3rem 4rem;
+    background-image: url('../images/wallpaper.jpeg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+nav {
+    background-color: #420101;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    padding-right: 2rem;
+    padding-left: 1rem;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+}
+
+nav li a:hover {
+    color: yellow;
+}
+
+.welcome-banner {
+    background-color: tomato;
+    width: fit-content;
+    color: black;
+    padding: 1rem 2rem;
+    font-family: "Open Sans", Georgia, serif;
+}
+
+/* Welcome Styles */
+#welcome {
+    background-color: #A36E0B;
+    padding: 2rem;
+}
+
+.welcome-box {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.welcome-text {
+    background-color: #00A8BF;
+    padding: 0.5rem 2rem;
+    color: #420101;
+    text-align: center;
+}
+
+.welcome-img-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 3rem;
+    padding-bottom: 1.5rem;
+}
+
+.welcome-image {
+    width: 30%;
+    min-width: 8rem;
+    height: auto;
+    padding: 0.25rem;
+}
+
+.caption-box {
+    background-color: tomato;
+    color: #420101;
+    width: fit-content;
+    padding: 0.5rem 3rem;
+}
+
+/* Neightborhood Styles */
+#neighborhood {
+    background-image: url('../images/eastern-parkway.jpeg');
+    background-size: contain;
+    background-color: #E9B649;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 3rem;
+    display: flex;
+    justify-content: right;
+}
+
+.neighborhood-text {
+    background-color: #00A8BF;
+    color: white;
+    width: fit-content;
+    text-align: center;
+    padding: 0.5rem 2rem;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #420101;
+    color: #E9B649;
+    padding: 3rem;
+}

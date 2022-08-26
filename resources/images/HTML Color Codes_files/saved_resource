@@ -1,0 +1,38 @@
+
+var ftGUID_4171454="47457EDED18830";
+var ftConfID_4171454="27936285";
+var ftParams_4171454="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=htmlcolorcodes.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fhtmlcolorcodes.com%2F&ft_section=__80526178483132995682977961075164071843&cachebuster=544478.5706061936";
+var ftKeyword_4171454="";
+var ftCustom_4171454="";
+var ftSection_4171454="__80526178483132995682977961075164071843";
+var ftSegment_4171454="aanx,ahuu,ahut,aixc,ahp2";
+var ftSegmentList_4171454=[{s:'aanx',t:47530000},{s:'ahuu'},{s:'ahut'},{s:'aixc'},{s:'ahp2'}];
+var ftRuleMatch_4171454="0";
+var ftTimestamp_4171454="1658772133";
+var ftGeoC2_4171454="us";
+var ftGeoState_4171454="ct";
+var ftGeoCity_4171454="west hartford";
+var ftISP_4171454="comcast cable communications inc.";
+var ftSpeed_4171454="cable";
+var ftDMA_4171454="533";
+var ftLong_4171454="-72.76";
+var ftLat_4171454="41.76";
+var ftPostal_4171454="06107";
+var ftTimeZone_4171454="-400";
+var ftMobileCarrier_4171454="";
+var ftImp4171454 = {};
+ftImp4171454.privacy = "x";
+ftImp4171454.guidAge = "574";
+ftImp4171454.impID = "D7C24C09-9012-E591-12B1-93C89D310627";
+ftImp4171454.duid = "FT:47457EDED18830";
+
+ftImp4171454.ft_tpplid = "";
+ftImp4171454.ft_c = {};
+ftImp4171454.gdpr = "";
+ftImp4171454.gdpr_consent = "";
+ftImp4171454.gdpr_pd = "";
+ftImp4171454.oob_consent = "";
+ftImp4171454.gdprStoredConsent = "";
+ftImp4171454.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/417/4171454/3985169/js/j-4171454-3985169.js" id="ftscript_m4171454" name="ftscript_m4171454"></scr'+'ipt>');
