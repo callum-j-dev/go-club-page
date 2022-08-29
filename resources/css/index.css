@@ -119,3 +119,61 @@ footer {
     color: #E9B649;
     padding: 3rem;
 }
+
+/* Calendar Styles */
+#calendar-body {
+    background-color: #A36E0B;
+}
+#club-calendar {
+    background-color: #420101;
+    margin: 3rem auto;
+}
+
+#calendar-body h2 {
+    color: #420101;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#club-calendar td {
+    height: 100px;
+    width: 150px;
+}
+
+#day-names {
+    color: #E9B649;
+    font-family: "Montserrat", sans-serif;
+}
+
+#club-calendar .day-content {
+    display: grid;
+    grid-template-rows: [top] 20% [mid] 80% [bottom];
+    height: 100%;
+    width: 100%;
+}
+
+
+#club-calendar tbody {
+    background-color: #E9B649;
+    color: #420101;
+    font-family: "Montserrat", serif;
+}
+
+#club-calendar .day-num {
+    text-align: right;
+    padding-top: 0.25rem;
+    padding-right: 0.5rem;
+    grid-row: 1 / 2;
+    margin: 0;
+}
+
+#club-calendar .event {
+    padding: 0 1rem;
+    font-size: 0.75rem;
+    grid-row: mid / bottom;
+}
+
+#club-calendar .event-time {
+    font-style: italic;
+}
