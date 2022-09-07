@@ -121,6 +121,58 @@ footer {
     padding: 3rem;
 }
 
+/* Learn Go Page styles */
+#intro {
+    background-color: #420101;
+    color: white;
+    padding: 1rem 2rem;
+    width: 750px;
+    font-family: "Zilla Slab", serif;
+    margin: 1rem 2rem;
+}
+
+#intro h2 {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+.video-tutorial {
+    width: fit-content;
+    padding: 1rem 2rem;
+    margin: 3rem auto;
+    font-family: "Zilla Slab", serif;
+}
+
+.blue {
+    background-color: #00A8BF;
+}
+
+.red {
+    background-color: tomato;
+}
+
+#conclusion {
+    padding: 1rem 2rem;
+    margin: 3rem auto;
+    width: 750px;
+    font-family: "Open Sans", sans-serif;
+    background-color: #420101;
+    color: white;
+}
+
+#conclusion a {
+    text-decoration: none;
+    color: white;
+}
+
+#conclusion a:hover {
+    color: #E9B649;
+}
+
+#conclusion a:active {
+    color: #00A8BF;
+}
+
 /* Calendar Styles */
 #calendar-body {
 }
